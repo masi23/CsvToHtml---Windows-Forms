@@ -2,7 +2,8 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-
+# Oznacz pliki HTML jako generowane
+*.html linguist-generated
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
